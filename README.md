@@ -1,6 +1,13 @@
 # NYC-Ai-Hackathon-2023
 Hackathon team for NYC Open AI hackathon
 
+## Set-up
+**Pre-requisites;** Make sure sure that python3.8 is available or already installed, as well as conda for package management.  
+`steps:`
+1. create conda envrionment: 
+2. Activate
+3. pip install -r requirements.txt 
+**Set up Env:** conda
 
 ## NYCPublicDataFetcher Class
 
